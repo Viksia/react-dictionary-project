@@ -11,7 +11,7 @@ export default function App() {
           <h1>My Dictionary App on React!</h1>
         </header>
         <main>
-          <Dictionary />
+          <Dictionary defaultKeyword="sunset" />
         </main>
         <footer className="App-footer">Coded by Viksy</footer>
       </div>
