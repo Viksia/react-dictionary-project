@@ -8,15 +8,15 @@
 
 .Dictionary input {
   width: 100%;
-  padding: 6px 10px;
+  padding: 10px 16px;
   border: 1px solid #ddd;
   color: #333;
   border-radius: 6px;
 }
 
 .Dictionary .hint {
-  margin-top: 5px;
-  font-size: 11px;
+  margin-top: 8px;
+  font-size: 12px;
 }
 
 .Dictionary h1 {

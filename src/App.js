@@ -12,7 +12,15 @@ export default function App() {
         <main>
           <Dictionary defaultKeyword="yoga" />
         </main>
-        <footer className="App-footer">Coded by Viksy</footer>
+        <footer className="App-footer">
+          <a
+            href="https://github.com/Viksia/react-dictionary-project"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Coded by Viksy
+          </a>
+        </footer>
       </div>
     </div>
   );
