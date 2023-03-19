@@ -59,8 +59,8 @@ export default function Dictionary(props) {
 						plants
 					</div>
 				</section>
-				<Results results={results} />
 				<Photos photos={photos} />
+				<Results results={results} />
 			</div>
 		);
 	} else {
